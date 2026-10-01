@@ -20,6 +20,8 @@ If you only want the practice folder, download `practice.zip` from this page ins
 | `customers/customers.csv` | The 300 customers: who they are, where they are, which crew they prefer, and notes |
 | `policies/Northwind service standards.md` | The two-page policy on arrival windows, credits, cancellations, what crews never do, and review follow-up |
 | `emails/three emails Dana sent.md` | Three emails in Dana's voice, enough to teach Claude how she writes |
+| `CLAUDE.md` | Who Dana is, her team and how each person likes to be reached, and how she likes answers. Claude reads it before every task in this folder |
+| `VOICE.md` | How Dana writes, taken from her three emails. Claude uses it to draft in her voice |
 
 The jobs file starts in January 2025. Some customers in `customers.csv` have a first job date before that, because they were already customers when the export begins.
 
