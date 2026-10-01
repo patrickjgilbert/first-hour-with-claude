@@ -1,0 +1,301 @@
+customer_id,customer_name,customer_type,neighborhood,first_job_date,preferred_crew,notes
+C-1001,Harbor Pointe Property Management,commercial,East End,2023-03-01,B,"40-unit building on the Eastern Prom, unit turnovers and common areas, monthly invoice"
+C-1002,Casco Bay Realty Partners,commercial,Old Port,2022-09-12,A,"Six rental buildings downtown, bills to the office"
+C-1003,Longfellow Square Properties,commercial,West End,2024-04-15,B,"Turnovers plus hallway cleans, contact is Dale"
+C-1004,Munjoy Hill Rentals,commercial,Munjoy Hill,2024-06-03,B,"Short-term rentals, same-day turnovers on weekends"
+C-1005,Seaside Dental Group,commercial,South Portland,2023-11-06,A,"After-hours only, alarm code on file"
+C-1006,Fore River Physical Therapy,commercial,Libbytown,2024-01-22,A,"Evenings after 6, wipe equipment with their spray"
+C-1007,Brightwater Yoga Studio,commercial,Bayside,2024-08-19,B,"Floors only, no chemicals on the cork"
+C-1008,Pell and Grange Law Office,commercial,Old Port,2022-02-07,A,"Weekly, Thursdays after 5"
+C-1009,Tidewater Coworking,commercial,Bayside,2024-10-14,B,"Two floors, kitchen is the priority"
+C-1010,Stonegate Veterinary Clinic,commercial,Westbrook,2023-07-10,A,Saturday afternoons after close
+C-1011,Grace Okafor,household,East End,2022-05-09,B,"Likes the same two cleaners each visit, calls the office rather than texting"
+C-1012,Evelyn Lavoie,household,Oakdale,2021-07-22,A,
+C-1013,Ethan Yeaton,household,Oakdale,2025-05-15,A,
+C-1014,Margaret Rasmussen,household,Scarborough,2024-04-26,A,
+C-1015,Fiona Perkins,household,Scarborough,2025-12-13,A,
+C-1016,Delphine Moreau,household,Scarborough,2026-02-28,A,"Friendly dog, keep the gate shut"
+C-1017,Mason Petrov,household,East End,2026-07-19,B,
+C-1018,Fatima Macomber,household,Oakdale,2021-05-24,A,
+C-1019,Sophie Sorensen,household,Riverton,2024-06-05,B,
+C-1020,Arthur Yeaton,household,Rosemont,2025-12-13,A,"Uses our vacuum, not theirs"
+C-1021,Noah Desrosiers,household,Riverton,2026-09-16,B,
+C-1022,Annika Perkins,household,Old Port,2026-07-30,B,"No scented products, allergies"
+C-1023,Paloma Underhill,household,West End,2024-09-20,A,"Park on the street, not the driveway"
+C-1024,Fatima Winslow,household,Scarborough,2026-02-03,A,
+C-1025,Bram Jacobsen,household,Munjoy Hill,2025-06-22,B,
+C-1026,Hazel Pelletier,household,Scarborough,2024-01-28,A,"Grandkids visit Fridays, avoid"
+C-1027,Quinn Gagnon,household,Rosemont,2025-02-25,A,"Park on the street, not the driveway"
+C-1028,Leila Perkins,household,Old Port,2022-04-23,B,Gate code on file
+C-1029,Paloma Pomeroy,household,Westbrook,2023-03-15,A,
+C-1030,Zoe Whitney,household,West End,2023-09-08,A,
+C-1031,Harold Hartley,household,Riverton,2022-11-26,B,
+C-1032,Walter Nadeau,household,Riverton,2023-06-01,B,
+C-1033,Lucas Lambert,household,Munjoy Hill,2026-07-14,B,
+C-1034,Jonah Bouchard,household,Deering Center,2025-07-01,B,
+C-1035,Colin Sorensen,household,South Portland,2025-07-29,A,
+C-1036,June Pelletier,household,Cape Elizabeth,2026-05-16,A,
+C-1037,Evelyn Wentworth,household,Bayside,2025-10-15,B,
+C-1038,Evelyn Nadeau,household,Munjoy Hill,2022-09-14,B,
+C-1039,Ethan Vasquez,household,Westbrook,2025-03-31,A,"Friendly dog, keep the gate shut"
+C-1040,Eli Tremblay,household,Back Cove,2024-01-18,B,
+C-1041,Yara Ibarra,household,Libbytown,2026-09-19,A,
+C-1042,Ethan Hartley,household,Munjoy Hill,2024-07-19,B,"Grandkids visit Fridays, avoid"
+C-1043,Vera Haddad,household,Westbrook,2023-01-26,A,
+C-1044,Evelyn Tanaka,household,Libbytown,2024-10-23,A,"No scented products, allergies"
+C-1045,Jonah Pelletier,household,Cape Elizabeth,2025-11-14,A,
+C-1046,Harold Moreau,household,Scarborough,2026-02-09,A,"Park on the street, not the driveway"
+C-1047,Grace Sawyer,household,Back Cove,2022-05-13,B,Second floor only
+C-1048,Tessa Quimby,household,Falmouth,2026-08-23,B,
+C-1049,Raymond Hodgkins,household,Back Cove,2025-11-05,B,Text when 20 min out
+C-1050,Kofi Sawyer,household,Munjoy Hill,2026-09-16,B,
+C-1051,Harold Dyer,household,Stroudwater,2022-01-14,A,Leave invoice on the counter
+C-1052,Fiona Hodgkins,household,Westbrook,2022-11-22,A,
+C-1053,Celeste Rasmussen,household,North Deering,2025-02-06,B,
+C-1054,Kenji Rasmussen,household,Deering Center,2022-11-11,B,
+C-1055,Leila Merrill,household,Riverton,2025-08-30,B,"Grandkids visit Fridays, avoid"
+C-1056,Maya Rousseau,household,Old Port,2024-01-05,B,
+C-1057,Harold Ames,household,Deering Center,2023-01-28,B,
+C-1058,Liam Tremblay,household,Munjoy Hill,2025-04-22,B,
+C-1059,Theo Petrov,household,Woodfords Corner,2024-12-28,B,
+C-1060,Ruby Oberg,household,East End,2023-11-05,B,
+C-1061,Colin Castellano,household,Stroudwater,2026-08-07,A,
+C-1062,Tessa Yilmaz,household,Old Port,2024-01-25,B,
+C-1063,Kenji Ibarra,household,North Deering,2026-02-17,B,
+C-1064,Mason Underhill,household,Woodfords Corner,2025-02-26,B,Key under the blue planter
+C-1065,Rose Lambert,household,Cape Elizabeth,2023-12-08,A,Prefers Tuesdays
+C-1066,Owen Vasquez,household,Back Cove,2021-11-25,B,
+C-1067,Marcel Zielinski,household,West End,2021-09-16,A,
+C-1068,Hazel Kincaid,household,Woodfords Corner,2026-09-22,B,Key under the blue planter
+C-1069,Fatima Wentworth,household,Riverton,2023-12-14,B,Skip the basement
+C-1070,Fatima Dufresne,household,Parkside,2025-12-10,A,
+C-1071,Evelyn Ibarra,household,North Deering,2022-06-21,B,
+C-1072,Sophie Nakamura,household,Cape Elizabeth,2025-09-04,A,
+C-1073,Ava Quimby,household,South Portland,2026-05-29,A,
+C-1074,Rhea Hodgkins,household,Rosemont,2025-11-08,A,
+C-1075,Annika Haddad,household,Bayside,2025-10-09,B,Prefers Tuesdays
+C-1076,Wes Jacobsen,household,North Deering,2025-10-10,B,Text when 20 min out
+C-1077,Colin Brackett,household,Parkside,2024-10-05,A,"Elderly parent at home, knock loudly"
+C-1078,Ava Lambert,household,Rosemont,2026-01-27,A,
+C-1079,Ruby Nadeau,household,East End,2022-07-05,B,
+C-1080,Ava Wentworth,household,Munjoy Hill,2026-04-02,B,
+C-1081,Jonah Oberg,household,East End,2025-03-22,B,
+C-1082,Priya Whitney,household,Woodfords Corner,2024-09-14,B,
+C-1083,Leila Yilmaz,household,Libbytown,2021-07-18,A,
+C-1084,Ava Rasmussen,household,Westbrook,2025-03-02,A,
+C-1085,Dmitri Lindgren,household,Stroudwater,2022-02-10,A,Cat stays in the bedroom
+C-1086,Silas Sawyer,household,Libbytown,2026-02-13,A,
+C-1087,Grace Pomeroy,household,Riverton,2025-05-21,B,Gate code on file
+C-1088,Tomas Thibodeau,household,Westbrook,2024-06-19,A,
+C-1089,June Gagnon,household,South Portland,2025-02-05,A,
+C-1090,Sophie Macomber,household,Munjoy Hill,2026-01-04,B,Key under the blue planter
+C-1091,Silas Rousseau,household,Deering Center,2023-10-27,B,Skip the basement
+C-1092,Arthur Vaillancourt,household,East End,2021-04-16,B,Cat stays in the bedroom
+C-1093,Leila Eldridge,household,Bayside,2023-09-25,B,
+C-1094,Rhea Lindgren,household,Riverton,2026-03-19,B,"Park on the street, not the driveway"
+C-1095,Kofi Tibbetts,household,Scarborough,2025-08-29,A,
+C-1096,Zoe Kincaid,household,Bayside,2021-03-21,B,"Uses our vacuum, not theirs"
+C-1097,Lorna Blanchard,household,South Portland,2026-02-21,A,
+C-1098,Emmett Rasmussen,household,Westbrook,2026-08-20,A,
+C-1099,Paloma Wentworth,household,Scarborough,2022-01-03,A,Cat stays in the bedroom
+C-1100,Isla Eldridge,household,Deering Center,2026-08-25,B,
+C-1101,Walter Sorensen,household,Riverton,2023-02-05,B,
+C-1102,Kofi Wentworth,household,Bayside,2022-04-28,B,
+C-1103,Annika Lavoie,household,North Deering,2026-04-12,B,
+C-1104,Gideon Fournier,household,Back Cove,2024-01-28,B,Text when 20 min out
+C-1105,Fatima Nadeau,household,West End,2021-01-20,A,
+C-1106,Eli Carrigan,household,Scarborough,2023-11-07,A,Cat stays in the bedroom
+C-1107,Oscar Tremblay,household,Rosemont,2024-05-20,A,
+C-1108,Tessa Osei,household,Cape Elizabeth,2021-10-10,A,Prefers Tuesdays
+C-1109,Helen Blanchard,household,Old Port,2022-08-11,B,"Grandkids visit Fridays, avoid"
+C-1110,Priya Bouchard,household,West End,2026-07-11,A,
+C-1111,Yara Abernathy,household,Westbrook,2026-05-25,A,
+C-1112,Eli Abernathy,household,West End,2022-05-19,A,
+C-1113,Ethan Lavoie,household,Bayside,2021-06-03,B,
+C-1114,Liam Blanchard,household,Woodfords Corner,2026-03-26,B,
+C-1115,Ingrid Stinson,household,Oakdale,2025-04-05,A,
+C-1116,Theo Nadeau,household,Parkside,2026-09-10,A,
+C-1117,Zoe Abernathy,household,Westbrook,2025-09-17,A,
+C-1118,Dorothy Kincaid,household,West End,2025-05-19,A,"Park on the street, not the driveway"
+C-1119,Silas Hodgkins,household,North Deering,2022-12-02,B,"Friendly dog, keep the gate shut"
+C-1120,Mateo Hodgkins,household,Oakdale,2023-04-16,A,"Park on the street, not the driveway"
+C-1121,Emmett Ziegler,household,Falmouth,2026-07-30,B,"No scented products, allergies"
+C-1122,Olivia Nadeau,household,Falmouth,2021-09-05,B,Call before arriving
+C-1123,Omar Moreau,household,Stroudwater,2022-12-19,A,"Uses our vacuum, not theirs"
+C-1124,Kofi Dufresne,household,Riverton,2024-07-02,B,
+C-1125,Marcel Moreau,household,Cape Elizabeth,2021-11-21,A,
+C-1126,Tessa Yeaton,household,Woodfords Corner,2021-02-14,B,
+C-1127,Oscar Macomber,household,Bayside,2026-08-20,B,
+C-1128,Ulrich Wentworth,household,East End,2021-04-17,B,
+C-1129,Maya Haddad,household,Oakdale,2022-11-23,A,
+C-1130,Arthur Goodwin,household,North Deering,2022-09-04,B,
+C-1131,Leila Sorensen,household,Riverton,2026-09-14,B,"Friendly dog, keep the gate shut"
+C-1132,Eli Tanaka,household,Oakdale,2022-01-15,A,
+C-1133,Sophie Perkins,household,Falmouth,2024-01-04,B,"Park on the street, not the driveway"
+C-1134,Maya Tibbetts,household,Munjoy Hill,2024-03-21,B,
+C-1135,Helen Vaillancourt,household,West End,2024-09-24,A,
+C-1136,Vera Quintana,household,Bayside,2025-07-13,B,
+C-1137,Sophie Ziegler,household,Old Port,2022-09-01,B,
+C-1138,Ulrich Dufresne,household,Oakdale,2025-07-05,A,
+C-1139,Owen Chamberlain,household,East End,2026-09-08,B,Skip the basement
+C-1140,Dorothy Perkins,household,West End,2023-09-17,A,
+C-1141,Helen Wentworth,household,East End,2025-07-13,B,
+C-1142,Nadia Desrosiers,household,Stroudwater,2026-03-09,A,
+C-1143,Nora Sawyer,household,Stroudwater,2025-07-16,A,
+C-1144,Nadia Stinson,household,Deering Center,2025-02-07,B,
+C-1145,Rose Ibarra,household,Woodfords Corner,2026-07-25,B,Key under the blue planter
+C-1146,Harriet Yeaton,household,Riverton,2026-09-01,B,
+C-1147,Clara Ibarra,household,Oakdale,2026-05-11,A,Prefers Tuesdays
+C-1148,Mason Ziegler,household,Back Cove,2025-08-24,B,
+C-1149,Hazel Vaillancourt,household,Stroudwater,2023-11-07,A,
+C-1150,Tomas Merrill,household,East End,2026-07-22,B,"Park on the street, not the driveway"
+C-1151,Olivia Thibodeau,household,Bayside,2026-07-05,B,Leave invoice on the counter
+C-1152,Caleb Gagnon,household,Falmouth,2024-01-08,B,
+C-1153,Margaret Tanaka,household,Westbrook,2025-03-22,A,"Park on the street, not the driveway"
+C-1154,Lucas Nadeau,household,Riverton,2025-10-30,B,"Uses our vacuum, not theirs"
+C-1155,Kenji Nakamura,household,Rosemont,2024-10-18,A,Key under the blue planter
+C-1156,Owen Blanchard,household,Falmouth,2022-04-09,B,
+C-1157,Vera Jacobsen,household,Cape Elizabeth,2021-08-25,A,"Park on the street, not the driveway"
+C-1158,Oscar Abernathy,household,Back Cove,2026-06-14,B,
+C-1159,Nadia Whitney,household,Libbytown,2025-02-27,A,"Grandkids visit Fridays, avoid"
+C-1160,Theo Brackett,household,Libbytown,2021-07-28,A,Text when 20 min out
+C-1161,Fiona Quintana,household,Bayside,2026-07-18,B,
+C-1162,Nadia Dyer,household,Falmouth,2025-05-18,B,
+C-1163,Ethan Bouchard,household,Parkside,2026-04-19,A,"Park on the street, not the driveway"
+C-1164,Kofi Lindgren,household,East End,2025-06-28,B,
+C-1165,Fatima Brackett,household,Munjoy Hill,2026-04-12,B,"No scented products, allergies"
+C-1166,Omar Dufresne,household,Munjoy Hill,2023-02-20,B,
+C-1167,Ava Ziegler,household,Cape Elizabeth,2021-03-24,A,
+C-1168,Leila Umar,household,Scarborough,2021-08-15,A,
+C-1169,Ethan Ames,household,Back Cove,2023-07-02,B,"Elderly parent at home, knock loudly"
+C-1170,Bram Winslow,household,North Deering,2026-01-08,B,"Park on the street, not the driveway"
+C-1171,Arthur Eldridge,household,Parkside,2021-02-06,A,Leave invoice on the counter
+C-1172,Ulrich Vaillancourt,household,Oakdale,2025-10-26,A,"Elderly parent at home, knock loudly"
+C-1173,Ivan Blanchard,household,Back Cove,2025-04-02,B,
+C-1174,Helen Yeaton,household,Bayside,2025-05-14,B,Second floor only
+C-1175,Harold Umar,household,West End,2025-07-06,A,
+C-1176,Dorothy Dyer,household,Rosemont,2026-05-16,A,
+C-1177,Priya Coombs,household,Deering Center,2021-09-03,B,
+C-1178,Yara Tremblay,household,Stroudwater,2022-08-22,A,Skip the basement
+C-1179,Ethan Winslow,household,Old Port,2025-03-17,B,
+C-1180,Delphine Coombs,household,Bayside,2022-06-08,B,"Park on the street, not the driveway"
+C-1181,Tomas Castellano,household,Back Cove,2025-02-26,B,
+C-1182,Maya Tremblay,household,Parkside,2025-04-26,A,
+C-1183,Nora Bouchard,household,Munjoy Hill,2023-06-04,B,Call before arriving
+C-1184,Ethan Dyer,household,Back Cove,2021-05-12,B,
+C-1185,Kenji Tanaka,household,Falmouth,2021-10-28,B,"Grandkids visit Fridays, avoid"
+C-1186,June Yilmaz,household,West End,2023-07-18,A,"Elderly parent at home, knock loudly"
+C-1187,Margaret Blanchard,household,Woodfords Corner,2021-12-12,B,
+C-1188,Emmett Wentworth,household,Stroudwater,2023-11-10,A,
+C-1189,Ethan Perkins,household,Oakdale,2023-09-14,A,
+C-1190,Ivan Stinson,household,Rosemont,2022-03-04,A,
+C-1191,Tessa Chamberlain,household,Old Port,2026-03-02,B,
+C-1192,Nora Umar,household,North Deering,2021-11-07,B,
+C-1193,Raymond Zielinski,household,Old Port,2026-04-28,B,
+C-1194,Beatrice Blanchard,household,South Portland,2026-05-24,A,"Uses our vacuum, not theirs"
+C-1195,Walter Jacobsen,household,Libbytown,2024-11-27,A,Call before arriving
+C-1196,Ulrich Kincaid,household,Back Cove,2026-03-16,B,
+C-1197,Jonah Zielinski,household,West End,2026-03-09,A,Text when 20 min out
+C-1198,Frank Thibodeau,household,Falmouth,2023-08-21,B,
+C-1199,Tessa Haddad,household,Stroudwater,2026-07-12,A,Second floor only
+C-1200,Paloma Quimby,household,Deering Center,2022-11-01,B,"Park on the street, not the driveway"
+C-1201,Isla Yilmaz,household,Deering Center,2024-08-24,B,
+C-1202,Theo Fournier,household,Riverton,2025-12-16,B,
+C-1203,Helen Thibodeau,household,North Deering,2023-02-26,B,
+C-1204,Nadia Sorensen,household,Riverton,2026-06-30,B,
+C-1205,Vera Underhill,household,Rosemont,2025-06-13,A,Call before arriving
+C-1206,Amara Pomeroy,household,Stroudwater,2025-11-24,A,
+C-1207,Marcel Perkins,household,Cape Elizabeth,2025-07-11,A,
+C-1208,Evelyn Pelletier,household,Stroudwater,2021-08-10,A,
+C-1209,Sophie Thibodeau,household,Libbytown,2025-10-04,A,Gate code on file
+C-1210,Owen Haddad,household,Deering Center,2021-04-22,B,Call before arriving
+C-1211,June Chamberlain,household,West End,2025-06-23,A,"Grandkids visit Fridays, avoid"
+C-1212,Wes Lavoie,household,Bayside,2023-02-21,B,Second floor only
+C-1213,Amara Ibarra,household,West End,2021-10-20,A,
+C-1214,Vera Whitney,household,Stroudwater,2025-06-05,A,
+C-1215,Mason Nadeau,household,Parkside,2025-07-30,A,Leave invoice on the counter
+C-1216,Zoe Lambert,household,South Portland,2025-11-11,A,
+C-1217,Oscar Tanaka,household,Munjoy Hill,2026-02-21,B,
+C-1218,Fatima Tanaka,household,Westbrook,2026-04-01,A,
+C-1219,Ruby Merrill,household,Stroudwater,2025-08-30,A,
+C-1220,Celeste Hodgkins,household,Falmouth,2026-01-22,B,
+C-1221,Dorothy Thibodeau,household,Deering Center,2022-12-28,B,
+C-1222,Wes Sorensen,household,Cape Elizabeth,2026-03-07,A,
+C-1223,Zoe Zielinski,household,Stroudwater,2026-05-01,A,"Uses our vacuum, not theirs"
+C-1224,Dmitri Umar,household,Deering Center,2025-05-09,B,
+C-1225,Walter Zielinski,household,West End,2023-08-17,A,Gate code on file
+C-1226,Eli Dufresne,household,Libbytown,2025-12-23,A,Text when 20 min out
+C-1227,Colin Haddad,household,Bayside,2026-09-07,B,
+C-1228,Wes Tanaka,household,Stroudwater,2024-10-17,A,
+C-1229,Ingrid Perkins,household,Deering Center,2025-07-03,B,
+C-1230,Isla Winslow,household,Back Cove,2021-05-12,B,
+C-1231,Dorothy Hartley,household,Stroudwater,2026-09-05,A,
+C-1232,Delphine Vasquez,household,Oakdale,2023-09-16,A,"No scented products, allergies"
+C-1233,Ulrich Sorensen,household,Back Cove,2024-06-11,B,
+C-1234,Beatrice Hodgkins,household,Libbytown,2024-07-07,A,
+C-1235,Olivia Cushing,household,Riverton,2026-02-08,B,"Elderly parent at home, knock loudly"
+C-1236,Kofi Eldridge,household,Riverton,2021-06-23,B,"Friendly dog, keep the gate shut"
+C-1237,Kenji Vasquez,household,Cape Elizabeth,2024-10-25,A,
+C-1238,Sophie Ibarra,household,Bayside,2026-05-10,B,
+C-1239,Paloma Lindgren,household,Bayside,2021-08-12,B,
+C-1240,Amara Ames,household,Riverton,2024-05-12,B,Prefers Tuesdays
+C-1241,Rhea Jacobsen,household,Woodfords Corner,2025-04-16,B,
+C-1242,Ruby Jacobsen,household,East End,2026-05-10,B,
+C-1243,Grace Blanchard,household,Libbytown,2025-08-15,A,"Park on the street, not the driveway"
+C-1244,Tomas Eldridge,household,Back Cove,2023-09-01,B,
+C-1245,Rhea Cushing,household,Cape Elizabeth,2025-10-06,A,"Uses our vacuum, not theirs"
+C-1246,Maya Bouchard,household,Woodfords Corner,2022-11-15,B,Prefers Tuesdays
+C-1247,Ethan Nakamura,household,West End,2022-01-08,A,
+C-1248,Owen Rasmussen,household,Riverton,2025-09-29,B,Leave invoice on the counter
+C-1249,Annika Hartley,household,Old Port,2022-01-13,B,
+C-1250,Mason Bouchard,household,Parkside,2025-10-24,A,
+C-1251,Priya Yilmaz,household,Munjoy Hill,2026-06-03,B,
+C-1252,Yara Tanaka,household,Scarborough,2026-05-01,A,Second floor only
+C-1253,Bram Hodgkins,household,Libbytown,2022-11-26,A,"No scented products, allergies"
+C-1254,Isla Kincaid,household,Parkside,2021-01-02,A,
+C-1255,Priya Abernathy,household,South Portland,2023-10-13,A,
+C-1256,Emmett Underhill,household,Stroudwater,2025-10-30,A,
+C-1257,Eli Lindgren,household,Westbrook,2025-02-06,A,
+C-1258,Celeste Eldridge,household,Falmouth,2024-09-10,B,
+C-1259,Oscar Ibarra,household,Riverton,2025-08-10,B,
+C-1260,Kenji Fournier,household,South Portland,2023-10-21,A,
+C-1261,Zoe Yilmaz,household,Stroudwater,2026-05-11,A,
+C-1262,Wes Pelletier,household,Munjoy Hill,2026-09-18,B,"No scented products, allergies"
+C-1263,Ulrich Lambert,household,Oakdale,2024-01-19,A,
+C-1264,Nadia Winslow,household,Parkside,2021-05-19,A,"Friendly dog, keep the gate shut"
+C-1265,Lucas Lindgren,household,Munjoy Hill,2021-05-16,B,
+C-1266,Colin Lindgren,household,East End,2026-08-17,B,
+C-1267,Hazel Dyer,household,Libbytown,2025-03-08,A,
+C-1268,Yara Lavoie,household,Deering Center,2026-04-14,B,Text when 20 min out
+C-1269,Marcel Tanaka,household,Deering Center,2025-04-10,B,
+C-1270,Ingrid Rasmussen,household,Stroudwater,2025-10-06,A,
+C-1271,Dmitri Ziegler,household,West End,2021-06-07,A,
+C-1272,Caleb Merrill,household,Deering Center,2024-09-02,B,
+C-1273,Zoe Ames,household,Oakdale,2024-12-04,A,Text when 20 min out
+C-1274,Rose Thibodeau,household,Westbrook,2025-09-26,A,
+C-1275,Beatrice Yilmaz,household,Bayside,2025-02-23,B,
+C-1276,Eli Ames,household,Rosemont,2025-12-08,A,
+C-1277,Isla Oberg,household,Falmouth,2025-06-20,B,Text when 20 min out
+C-1278,Olivia Desrosiers,household,Munjoy Hill,2022-02-15,B,
+C-1279,Liam Nakamura,household,Rosemont,2026-08-08,A,
+C-1280,Delphine Eldridge,household,Riverton,2021-08-15,B,"Elderly parent at home, knock loudly"
+C-1281,Colin Hartley,household,Parkside,2025-08-14,A,
+C-1282,Omar Blanchard,household,Munjoy Hill,2022-07-12,B,Call before arriving
+C-1283,Ivan Merrill,household,Scarborough,2021-02-27,A,"Park on the street, not the driveway"
+C-1284,Sophie Jacobsen,household,Woodfords Corner,2025-06-30,B,
+C-1285,Lorna Pomeroy,household,Stroudwater,2021-07-09,A,
+C-1286,Kenji Pelletier,household,Stroudwater,2025-06-05,A,
+C-1287,Harold Vaillancourt,household,Oakdale,2026-02-26,A,Second floor only
+C-1288,Lorna Dufresne,household,Stroudwater,2021-12-17,A,"Grandkids visit Fridays, avoid"
+C-1289,Caleb Rousseau,household,West End,2026-02-20,A,
+C-1290,Rhea Bouchard,household,South Portland,2021-04-01,A,"Grandkids visit Fridays, avoid"
+C-1291,Lucas Fournier,household,Old Port,2022-11-03,B,
+C-1292,Ethan Rasmussen,household,Old Port,2022-02-26,B,Text when 20 min out
+C-1293,Maya Castellano,household,Munjoy Hill,2022-06-19,B,
+C-1294,Harriet Perkins,household,Scarborough,2022-09-22,A,
+C-1295,Oscar Whitney,household,Libbytown,2022-03-13,A,Prefers Tuesdays
+C-1296,Wes Abernathy,household,Cape Elizabeth,2025-03-14,A,Call before arriving
+C-1297,Yara Sawyer,household,Deering Center,2022-05-01,B,
+C-1298,Liam Eldridge,household,South Portland,2026-01-05,A,
+C-1299,Theo Vasquez,household,North Deering,2025-04-21,B,
+C-1300,June Goodwin,household,Old Port,2022-07-02,B,
